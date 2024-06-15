@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.1",
+    "create-react-app": "^5.0.1",
+    "react-loader-spinner": "^6.1.6"
+  }
+}
